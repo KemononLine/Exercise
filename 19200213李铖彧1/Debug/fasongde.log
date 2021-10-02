@@ -1,0 +1,9 @@
+﻿  1_1.cpp
+D:\NNUCS\MyProjects\19200213李铖彧1_1\1_1.cpp(31,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\NNUCS\MyProjects\19200213李铖彧1_1\1_1.cpp(36,15): warning C4018: “<”: 有符号/无符号不匹配
+  1_2.cpp
+  1_3.cpp
+  正在生成代码...
+1_2.obj : error LNK2005: _main 已经在 1_1.obj 中定义
+1_3.obj : error LNK2005: _main 已经在 1_1.obj 中定义
+D:\NNUCS\MyProjects\19200213李铖彧1_1\Debug\fasongde.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

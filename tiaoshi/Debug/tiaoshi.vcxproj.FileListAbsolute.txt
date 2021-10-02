@@ -1,0 +1,2 @@
+D:\NNUCS\MyProjects\tiaoshi\Debug\tiaoshi.exe
+D:\NNUCS\MyProjects\tiaoshi\Debug\tiaoshi.pdb

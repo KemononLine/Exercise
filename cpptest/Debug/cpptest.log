@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\NNUCS\MyProjects\cpptest\源.cpp(43,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\NNUCS\MyProjects\cpptest\源.cpp(54,2): error C2064: 项不会计算为接受 2 个参数的函数

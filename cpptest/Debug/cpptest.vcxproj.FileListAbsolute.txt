@@ -1,0 +1,2 @@
+D:\NNUCS\MyProjects\cpptest\Debug\cpptest.exe
+D:\NNUCS\MyProjects\cpptest\Debug\cpptest.pdb

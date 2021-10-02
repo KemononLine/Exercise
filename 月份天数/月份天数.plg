@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 月份天数 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\123\AppData\Local\Temp\RSPACFA.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/月份天数.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\NNUCS\MyProjects\月份天数\月份天数.cpp"
+]
+Creating command line "cl.exe @C:\Users\123\AppData\Local\Temp\RSPACFA.tmp" 
+Creating temporary file "C:\Users\123\AppData\Local\Temp\RSPACFB.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/月份天数.pdb" /debug /machine:I386 /out:"Debug/月份天数.exe" /pdbtype:sept 
+".\Debug\月份天数.obj"
+]
+Creating command line "link.exe @C:\Users\123\AppData\Local\Temp\RSPACFB.tmp"
+<h3>Output Window</h3>
+Compiling...
+月份天数.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+月份天数.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

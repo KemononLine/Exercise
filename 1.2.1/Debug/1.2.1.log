@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\NNUCS\MyProjects\1.2.1\源.cpp(5,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  1.2.1.vcxproj -> D:\NNUCS\MyProjects\1.2.1\Debug\1.2.1.exe

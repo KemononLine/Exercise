@@ -1,0 +1,16 @@
+#include<stdio.h>
+ int main()
+ {
+     int y,m,d;
+     int days[12]={31,28,31,30,31,30,31,31,30,31,30,31};
+     scanf("%d %d",&y,&m);
+     if(y%4==0&&y%100!=0&&m==2||y%400==0&&m==2)
+	 {d=29;}
+	 else
+	 {d=28;};
+
+     printf("%d",d);
+	
+	 return 0;
+ }
+ 

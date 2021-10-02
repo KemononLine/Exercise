@@ -1,0 +1,2 @@
+D:\NNUCS\MyProjects\1.3.1\Debug\1.3.1.exe
+D:\NNUCS\MyProjects\1.3.1\Debug\1.3.1.pdb

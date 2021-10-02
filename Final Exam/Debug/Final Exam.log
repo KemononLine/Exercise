@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\NNUCS\MyProjects\Final Exam\源.cpp(27,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Final Exam.vcxproj -> D:\NNUCS\MyProjects\Final Exam\Debug\Final Exam.exe

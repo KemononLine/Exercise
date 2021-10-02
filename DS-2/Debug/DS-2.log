@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\NNUCS\MyProjects\DS-2\Mystack.h(177): warning C4715: “Operate”: 不是所有的控件路径都返回值
+  DS-2.vcxproj -> D:\NNUCS\MyProjects\DS-2\Debug\DS-2.exe
